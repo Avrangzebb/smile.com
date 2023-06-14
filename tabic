@@ -1,1 +1,5 @@
-def func_beauty(width, height)
+my_cars_number = 3
+my_cars_color = "Бронза, зеленый, черный"
+print(my_cars_number)
+print(my_cars_color)
+
